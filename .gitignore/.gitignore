@@ -1,0 +1,15 @@
+target/
+.settings/
+
+.classpath
+.project
+.springBeans
+pom.xml
+README.md
+
+
+src/main/resources/mybatis/jdbc.properties
+src/main/resources/*.xml
+
+src/main/webapp/WEB-INF/web.xml
+src/main/webapp/WEB-INF/spring/
