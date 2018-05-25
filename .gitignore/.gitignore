@@ -1,5 +1,5 @@
-target/
-.settings/
+/target/
+/.settings/
 
 .classpath
 .project
@@ -8,8 +8,8 @@ pom.xml
 README.md
 
 
-src/main/resources/mybatis/jdbc.properties
-src/main/resources/*.xml
+/src/main/resources/mybatis/jdbc.properties
+/src/main/resources/*.xml
 
-src/main/webapp/WEB-INF/web.xml
-src/main/webapp/WEB-INF/spring/
+/src/main/webapp/WEB-INF/web.xml
+/src/main/webapp/WEB-INF/spring/
